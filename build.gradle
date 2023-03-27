@@ -21,8 +21,8 @@ test {
 }
 
 
-sonarqube {
+sonar {
     properties {
-        property "sonar.projectKey", "spring5-web-example"
+        property "sonar.projectKey", "Test_ISEL"
     }
 }
